@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![rocket-3972_128](https://user-images.githubusercontent.com/123245032/218699005-250d311e-c555-404a-87c4-b132306c6a2d.gif)
 <!--
 **InvestVision/InvestVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
